@@ -1,0 +1,404 @@
+[
+    {
+        "vote_count": 525,
+        "id": 384018,
+        "video": false,
+        "vote_average": 6.5,
+        "title": "Fast & Furious Presents: Hobbs & Shaw",
+        "popularity": 367.37,
+        "poster_path": "/keym7MPn1icW1wWfzMnW3HeuzWU.jpg",
+        "original_language": "en",
+        "original_title": "Fast & Furious Presents: Hobbs & Shaw",
+        "genre_ids": [
+            28
+        ],
+        "backdrop_path": "/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg",
+        "adult": false,
+        "overview": "A spinoff of The Fate of the Furious, focusing on Johnson's US Diplomatic Security Agent Luke Hobbs forming an unlikely alliance with Statham's Deckard Shaw.",
+        "release_date": "2019-08-01"
+    },
+    {
+        "vote_count": 1725,
+        "id": 420818,
+        "video": false,
+        "vote_average": 7.1,
+        "title": "The Lion King",
+        "popularity": 316.662,
+        "poster_path": "/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+        "original_language": "en",
+        "original_title": "The Lion King",
+        "genre_ids": [
+            12,
+            16,
+            10751,
+            18,
+            28
+        ],
+        "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+        "adult": false,
+        "overview": "Simba idolises his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+        "release_date": "2019-07-12"
+    },
+    {
+        "vote_count": 2949,
+        "id": 429617,
+        "video": false,
+        "vote_average": 7.8,
+        "title": "Spider-Man: Far from Home",
+        "popularity": 131.57,
+        "poster_path": "/rjbNpRMoVvqHmhmksbokcyCr7wn.jpg",
+        "original_language": "en",
+        "original_title": "Spider-Man: Far from Home",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "backdrop_path": "/dihW2yTsvQlust7mSuAqJDtqW7k.jpg",
+        "adult": false,
+        "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+        "release_date": "2019-06-28"
+    },
+    {
+        "vote_count": 251,
+        "id": 466272,
+        "video": false,
+        "vote_average": 7.6,
+        "title": "Once Upon a Time in Hollywood",
+        "popularity": 123.655,
+        "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+        "original_language": "en",
+        "original_title": "Once Upon a Time in Hollywood",
+        "genre_ids": [
+            18,
+            35,
+            28,
+            80,
+            37
+        ],
+        "backdrop_path": "/b82nVVhYNRgtsTFV1jkdDwe6LJZ.jpg",
+        "adult": false,
+        "overview": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+        "release_date": "2019-07-25"
+    },
+    {
+        "vote_count": 10,
+        "id": 571627,
+        "video": false,
+        "vote_average": 2.3,
+        "title": "The Divine Fury",
+        "popularity": 81.398,
+        "poster_path": "/9Z2qT9iZYLzzsCSYu7A4SEQsKX0.jpg",
+        "original_language": "ko",
+        "original_title": "사자",
+        "genre_ids": [
+            28,
+            27,
+            9648
+        ],
+        "backdrop_path": "/4MDYpCwqSVO5RcTiZ4GEfePzDdl.jpg",
+        "adult": false,
+        "overview": "Yong-hu, a world champion martial artist who believes in no God, only himself, suddenly develops stigmata on his palms. Visiting a church in hopes of healing the stigmata, he ends up saving Father Ahn, who falls into danger while performing an exorcism. In this way he learns of the power of the stigmata. As time passes Yong-hu accepts his new calling and begins saving people who are possessed by demons, but then he must prepare for a final confrontation with the evil Jisin, who ensnares people with the power of the devil.",
+        "release_date": "2019-07-31"
+    },
+    {
+        "vote_count": 0,
+        "id": 568012,
+        "video": false,
+        "vote_average": 0,
+        "title": "One Piece: Stampede",
+        "popularity": 55.772,
+        "poster_path": "/tiqxe3c1uzVYCNhADeD5KyVtINP.jpg",
+        "original_language": "ja",
+        "original_title": "劇場版『ONE PIECE STAMPEDE』（スタンピード）",
+        "genre_ids": [
+            16,
+            28,
+            12
+        ],
+        "backdrop_path": "/jAvDJ0ZAj8WTrCKKcQYnceALkJc.jpg",
+        "adult": false,
+        "overview": "The film celebrates the One Piece anime's 20th anniversary and will be the 14th film in the franchise.",
+        "release_date": "2019-08-09"
+    },
+    {
+        "vote_count": 30,
+        "id": 454640,
+        "video": false,
+        "vote_average": 6.4,
+        "title": "The Angry Birds Movie 2",
+        "popularity": 46.922,
+        "poster_path": "/ebe8hJRCwdflNQbUjRrfmqtUiNi.jpg",
+        "original_language": "en",
+        "original_title": "The Angry Birds Movie 2",
+        "genre_ids": [
+            16,
+            35,
+            28,
+            12,
+            10751
+        ],
+        "backdrop_path": "/k7sE3loFwuU2mqf7FbZBeE3rjBa.jpg",
+        "adult": false,
+        "overview": "The flightless birds and scheming green pigs take their beef to the next level.",
+        "release_date": "2019-08-02"
+    },
+    {
+        "vote_count": 227,
+        "id": 511987,
+        "video": false,
+        "vote_average": 5.9,
+        "title": "Crawl",
+        "popularity": 44.486,
+        "poster_path": "/mKxpYRIrCZLxZjNqpocJ2RdQW8v.jpg",
+        "original_language": "en",
+        "original_title": "Crawl",
+        "genre_ids": [
+            53,
+            28,
+            27
+        ],
+        "backdrop_path": "/2cAce3oD0Hh7f5XxuXmNXa1WiuZ.jpg",
+        "adult": false,
+        "overview": "While struggling to save her father during a Category 5 hurricane, a young woman finds herself trapped inside a flooding house and fighting for her life against Florida’s most savage and feared predators.",
+        "release_date": "2019-07-11"
+    },
+    {
+        "vote_count": 10,
+        "id": 604165,
+        "video": false,
+        "vote_average": 7.4,
+        "title": "Kamen Rider Zi-O the Movie: Over Quartzer!",
+        "popularity": 34.871,
+        "poster_path": "/ftVSHLDbkVh0XycxGPqszEUyt3T.jpg",
+        "original_language": "ja",
+        "original_title": "劇場版 仮面ライダージオウ Over Quartzer!",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "backdrop_path": "/3yb93vHjVc9amUgLhAHRJGMNGpH.jpg",
+        "adult": false,
+        "overview": "The Quartzers, calling themselves the Wardens of Time, appear after Sougo Tokiwa has collected all of the Heisei Era Ride Watches. A grand conspiracy behind the birth of the King of Time becomes ever clearer...",
+        "release_date": "2019-07-26"
+    },
+    {
+        "vote_count": 70,
+        "id": 537056,
+        "video": false,
+        "vote_average": 7.1,
+        "title": "Batman: Hush",
+        "popularity": 31.861,
+        "poster_path": "/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg",
+        "original_language": "en",
+        "original_title": "Batman: Hush",
+        "genre_ids": [
+            80,
+            16,
+            9648,
+            28
+        ],
+        "backdrop_path": "/eevJuYAitUe6VwFN29aFwzeyeTr.jpg",
+        "adult": false,
+        "overview": "A mysterious new villain known only as Hush uses a gallery of villains to destroy Batman's crime-fighting career as well as Bruce Wayne's personal life, which has been further complicated by a  relationship with Selina Kyle/Catwoman.",
+        "release_date": "2019-07-19"
+    },
+    {
+        "vote_count": 119,
+        "id": 480042,
+        "video": false,
+        "vote_average": 4.6,
+        "title": "Escape Plan: The Extractors",
+        "popularity": 25.442,
+        "poster_path": "/9V5fl1mGgVZzOYod0Jq2hyRlzEY.jpg",
+        "original_language": "en",
+        "original_title": "Escape Plan: The Extractors",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "backdrop_path": "/ygWKYTu7OnZKF9H5NsgjL9iURGV.jpg",
+        "adult": false,
+        "overview": "After security expert Ray Breslin is hired to rescue the kidnapped daughter of a Hong Kong tech mogul from a formidable Latvian prison, Breslin's girlfriend is also captured. Now he and his team must pull off a deadly rescue mission to confront their sadistic foe and save the hostages before time runs out.",
+        "release_date": "2019-06-20"
+    },
+    {
+        "vote_count": 488,
+        "id": 486131,
+        "video": false,
+        "vote_average": 6.5,
+        "title": "Shaft",
+        "popularity": 22.98,
+        "poster_path": "/kfZqwGuvEBAysAbCsa0QLKoSYR.jpg",
+        "original_language": "en",
+        "original_title": "Shaft",
+        "genre_ids": [
+            28,
+            80,
+            35
+        ],
+        "backdrop_path": "/103d4ObBCWbB6PtOOjZ7C1FSpVl.jpg",
+        "adult": false,
+        "overview": "JJ, aka John Shaft Jr., may be a cyber security expert with a degree from MIT, but to uncover the truth behind his best friend’s untimely death, he needs an education only his dad can provide. Absent throughout JJ’s youth, the legendary locked-and-loaded John Shaft agrees to help his progeny navigate Harlem’s heroin-infested underbelly.",
+        "release_date": "2019-06-14"
+    },
+    {
+        "vote_count": 3,
+        "id": 496891,
+        "video": false,
+        "vote_average": 2.3,
+        "title": "Girls und Panzer das Finale: Part II",
+        "popularity": 22.834,
+        "poster_path": "/2UPHyMm8fE22yvTFVGu1LW2nVF0.jpg",
+        "original_language": "ja",
+        "original_title": "ガールズ＆パンツァー 最終章 第2話",
+        "genre_ids": [
+            28,
+            16,
+            35
+        ],
+        "backdrop_path": "/lvTdnD0gqnXzggB8ncxwEDaQdHV.jpg",
+        "adult": false,
+        "overview": "Part 2 of 6 for the final chapter of Girls und Panzer series.",
+        "release_date": "2019-06-15"
+    },
+    {
+        "vote_count": 0,
+        "id": 618019,
+        "video": false,
+        "vote_average": 0,
+        "title": "Awake",
+        "popularity": 22.308,
+        "poster_path": "/lQ3AjOzpPWyE8Gc4avKneWadUtR.jpg",
+        "original_language": "en",
+        "original_title": "Awake",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "backdrop_path": "/157z3dQe2vlElp6IFJnvpIMyeUW.jpg",
+        "adult": false,
+        "overview": "A man wakes in a hospital bed with no recollection of who he is, and learns that he's wanted by the police for a committing a series of murders.",
+        "release_date": "2019-08-01"
+    },
+    {
+        "vote_count": 1,
+        "id": 512731,
+        "video": false,
+        "vote_average": 6,
+        "title": "The White Storm 2: Drug Lords",
+        "popularity": 22.176,
+        "poster_path": "/ja9oIIP33Pgm9295Gn67zBz8Vjy.jpg",
+        "original_language": "cn",
+        "original_title": "掃毒2：天地對決",
+        "genre_ids": [
+            28,
+            18,
+            80
+        ],
+        "backdrop_path": "/2Ht73jDe2noBB7KFUKvtjsnAd7t.jpg",
+        "adult": false,
+        "overview": "Financial tycoon and former triad member Yu Shun-tin tries to eradicate the drug market while 'Jizo' aims to singlehandedly take over Hong Kong's drug exchange as the number one drug lord.  Meanwhile, Lam Ching-fung, a cop from the Narcotics Bureau works towards preventing drug abuse but faces uncertainty.",
+        "release_date": "2019-07-04"
+    },
+    {
+        "vote_count": 1299,
+        "id": 514999,
+        "video": false,
+        "vote_average": 6.3,
+        "title": "Murder Mystery",
+        "popularity": 21.664,
+        "poster_path": "/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
+        "original_language": "en",
+        "original_title": "Murder Mystery",
+        "genre_ids": [
+            35,
+            80,
+            9648,
+            28
+        ],
+        "backdrop_path": "/qeFO3u2IqbAeIT1Xgo6POqYbCaQ.jpg",
+        "adult": false,
+        "overview": "After attending a gathering on a billionaire's yacht during a European vacation, a New York cop and his wife become prime suspects when he's murdered.",
+        "release_date": "2019-06-14"
+    },
+    {
+        "vote_count": 148,
+        "id": 531503,
+        "video": false,
+        "vote_average": 6,
+        "title": "Point Blank",
+        "popularity": 21.056,
+        "poster_path": "/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg",
+        "original_language": "en",
+        "original_title": "Point Blank",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "backdrop_path": "/9HyNgy6xYikHRP3veDN26AwCLsB.jpg",
+        "adult": false,
+        "overview": "A nurse is forced to spring a wounded murder suspect from the hospital when the man’s brother kidnaps his pregnant wife and wants to make a trade.",
+        "release_date": "2019-07-12"
+    },
+    {
+        "vote_count": 18,
+        "id": 500922,
+        "video": false,
+        "vote_average": 4.7,
+        "title": "A Score to Settle",
+        "popularity": 20.991,
+        "poster_path": "/4PBwZGBP6ziKuOgHRpbVRyGoqy3.jpg",
+        "original_language": "en",
+        "original_title": "A Score to Settle",
+        "genre_ids": [
+            28,
+            53,
+            18
+        ],
+        "backdrop_path": "/fcjOngTcwB2DurqKP2vwMs6qsTl.jpg",
+        "adult": false,
+        "overview": "A former mob enforcer who is released from prison after serving 22 years for a crime he didn't commit sets out on a path for revenge against the people who wronged him.",
+        "release_date": "2019-08-01"
+    },
+    {
+        "vote_count": 0,
+        "id": 592534,
+        "video": false,
+        "vote_average": 0,
+        "title": "Zarraar",
+        "popularity": 20.973,
+        "poster_path": "/nRCk4AiLdBUFWN1g95p8kskmsFX.jpg",
+        "original_language": "ur",
+        "original_title": "Zarrar",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "backdrop_path": "/99PnG0CMUooZntRNbCg0P5BSB4u.jpg",
+        "adult": false,
+        "overview": "This is all about Patriotism, Action n thrill. Shaan shahid's Great work and Passion for Pakistan Defense.",
+        "release_date": "2019-08-11"
+    },
+    {
+        "vote_count": 190,
+        "id": 484641,
+        "video": false,
+        "vote_average": 6.6,
+        "title": "Anna",
+        "popularity": 20.183,
+        "poster_path": "/exTOQMsl6sMntASQZWLhjghzVGx.jpg",
+        "original_language": "en",
+        "original_title": "Anna",
+        "genre_ids": [
+            53,
+            28
+        ],
+        "backdrop_path": "/jbMfZtei6aQABPSmQra7tU5ZScD.jpg",
+        "adult": false,
+        "overview": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+        "release_date": "2019-06-20"
+    }
+]

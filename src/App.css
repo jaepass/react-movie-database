@@ -1,33 +1,272 @@
-.App {
-  text-align: center;
-}
+/* Type styles */
+@import url('https://fonts.googleapis.com/css?family=Assistant|Fjalla+One&display=swap');
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+h1, 
+h2, 
+h3,
+h4,
+a, 
+p,
+.select, 
+.genreSelect label{
+  font-family: 'Fjalla One', sans-serif;
+  letter-spacing: 1.5px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+p{
+  font-family: 'Assistant', sans-serif;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 18px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Main Background */
+.mainApp{
+  background-repeat: repeat-y;
+  padding: 0;
+  background: rgb(0,0,0);
+  background: linear-gradient(to bottom right, rgba(0,0,0,1) 45%, rgba(29,212,253,1) 100%);
 }
+
+.mainNav{
+  background: rgb(253,29,29);
+  background: linear-gradient(90deg, rgba(253,29,29,1) 16%, rgba(29,212,253,1) 100%);
+  font-size: 23px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Fjalla One', sans-serif;
+  text-transform: uppercase;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.mainNav li a{
+  color: white;
+}
+
+.mainNav li a:hover{
+  color: #0eb6c2;
+  text-decoration: none;
+}
+
+.logo{
+  display: flex;
+  margin: 0 auto;
+  padding: 35px 0;
+}
+
+.genreSelect{
+  font-size: 19px;
+}
+
+/* Reset select */
+select{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  appearance: none;
+  outline: 0;
+  box-shadow: none;
+  border: 0 !important;
+  background: #fff;
+  background-image: none;
+}
+
+/* .select {
+  background-color: white;
+  width: 200px;
+  padding: 5px 20px 5px 50px;
+  color: black;
+  border-radius: 0;
+  font-family: 'Fjalla One', sans-serif;
+} */
+
+/* Remove IE arrow */
+select::-ms-expand {
+  display: none;
+}
+.select{
+  position: relative;
+  display: flex;
+  width: 175px;
+  height: 50px;
+  line-height: 3;
+  background: #fff;
+  overflow: hidden;
+  border-radius: 0;
+  color: black;
+}
+
+select {
+  padding: 0 20px;
+  color: #000;
+  cursor: pointer;
+}
+
+/* Arrow */
+.select::after {
+  /* content: '\25BC'; */
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 0 1em;
+  background: #000;
+  cursor: pointer;
+  pointer-events: none;
+  -webkit-transition: .25s all ease;
+  -o-transition: .25s all ease;
+  transition: .25s all ease;
+}
+
+/* Transition */
+.select:hover::after {
+  color: #f39c12;
+}
+
+/* .select input {
+  color: #000;
+  font-family: 'Fjalla One', sans-serif;
+} */
+
+/* .option{
+  color: rgb(145, 143, 143);
+  background-color: white;
+  padding: 5px 40px;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+.option:hover{
+  background-color: #fd1d1d;
+  color: white;
+} */
+
+.pageNav {
+  position: relative;
+  display: flex;
+}
+
+.previousBtn,
+.nextBtn{
+  color: #fff;
+  width: 80px;
+}
+
+.pageNumber {
+  color: #0eb6c2;
+  margin-top: 30px;
+  /* padding-right: 10px;
+  padding-left: 10px; */
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.pageNumber span{
+  color: #fd1d1d;
+}
+
+
+button {
+  border: none;
+  padding-top: 0;
+  background-color: transparent;
+  border-radius: 2px;
+
+}
+
+button:hover, 
+button:focus, 
+button:active {
+  color:#fd1d1d;
+  cursor: pointer;
+}
+
+.subNav {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Main Container */
+.container {
+  background: rgb(0,0,0);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+}
+
+/* Movie Card (Title, poster, description) */
+.col-lg-4 {
+  margin-bottom: 35px;
+
+}
+
+.movieTitle{
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  border-bottom: 7px solid #0eb6c2;
+}
+
+/* Movie poster and description */
+/* .row {
+  border: 2px dashed orange;
+} */
+
+.release-date{
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 22px;
+  padding-top: 15px;
+  color: lightgrey;
+}
+
+.moment-date {
+  color: #fd1d1d;
+}
+
+.moviePoster{
+  width: 90%;
+  padding-top: 15px;
+}
+
+.movieOverview{
+  padding-top: 20px;
+}
+
+.footer {
+  background: #fd1d1d;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.footer h4 {
+  color: white;
+  padding-left: 30px;
+}
+
+/* About page styles */
+.about{
+  padding: 50px;
+}
+
+
+.about h1, 
+.about p{
+  color: white;
+}
+
+.about h1{
+  padding-bottom: 20px;
+}
+
+.about a{
+  color:#fd1d1d;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+
+
+
+
